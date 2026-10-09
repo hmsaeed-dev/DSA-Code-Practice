@@ -1,0 +1,22 @@
+CLO-1	Apply linear data structure to various practical problems.	PLO-3
+CLO-2	Apply non-linear data structures on simple problems.	PLO-4
+CLO-3	Analyze and solve the problems using suitable data structures in a team environment using suitable data structures.	PLO-9,PLO-12
+
+Tasks (CLO-1)
+Task 1:
+Write a program a sequential searching in an array.( Pass an array and number to function, function should return index of number if present in array)
+Task 2:
+Write a program to implement Binary search. Count numbers of comparison you have made to search particular element.
+Task 3:
+Write a program to find transpose of a matrix.
+Task 4:
+Find gcd using recursion?
+Task 5:
+Find factorial using recursion?
+Task 6:
+Find sum of natural numbers using recursion?
+Task 7:
+Find Fibonacci series using recursion?
+Task 8:
+Reverse a string using recursion?
+
