@@ -1,4 +1,4 @@
-//! Insertion & Deletion
+//! Insertion & Deletion on SLL
 
 #include <iostream>
 using namespace std;

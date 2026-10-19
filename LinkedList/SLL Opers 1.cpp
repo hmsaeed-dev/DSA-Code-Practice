@@ -1,4 +1,4 @@
-//! Pushback, Pushfront & Traversal
+//! Pushback, Pushfront & Traversal on SLL
 
 #include <iostream>
 using namespace std;
