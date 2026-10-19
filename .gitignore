@@ -1,2 +1,27 @@
-/extras
-/.exe
+# Compiled Executables & Binaries
+*.exe
+*.out
+a.out
+
+# Object & Intermediate Files
+*.o
+*.obj
+
+# Debugging & Symbol Files
+*.pdb
+*.ilk
+*.idb
+
+# Extras / Temp Folders
+extras/
+
+# IDE / Editor Files
+.vs/
+.vscode/ipch/
+*.swp
+*~
+
+# OS Generated Files
+Thumbs.db
+Desktop.ini
+.DS_Store
